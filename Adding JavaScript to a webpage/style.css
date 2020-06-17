@@ -1,0 +1,21 @@
+body {
+  width: 300px;
+}
+
+.start {
+    border-style: none solid solid solid;
+}
+
+.end {
+  border-style: none solid none solid
+}
+div {
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-width: 1px;
+}
+
+div:hover {
+  background: #1492;
+}
